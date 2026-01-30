@@ -1,1 +1,1 @@
-# vide-research
+# Vibe Research
